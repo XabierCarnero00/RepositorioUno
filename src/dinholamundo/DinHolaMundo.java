@@ -17,7 +17,7 @@ public class DinHolaMundo {
     
  public class Application{
      
-     
+     //Hola mundo MVC
      
  }
     
